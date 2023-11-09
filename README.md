@@ -7,6 +7,6 @@ Skills: Excel / Python/ Jupyter Notebook / R
 - 🔭 I’m currently working on My own Investment & Company 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](//https://www.linkedin.com/in/boyu-pan-1086b31bb//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/boyu-pan-1086b31bb//)  
 
 
